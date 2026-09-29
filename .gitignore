@@ -1,0 +1,4 @@
+data/
+runs/*
+!runs/folds5.npy
+__pycache__/
